@@ -20,9 +20,9 @@ This project is a machine learning model developed to predict passenger survival
 - Seaborn
 
 ## How to Run
-1. Clone the repo: `git clone https://github.com/Sanila-577/kaggle-titanic-survival-prediction.git`
+1. Clone the repo: `git clone https://github.com/Sanila-577/titanic-survival-prediction.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the script: `python titanic-survival-prediction.py`
+3. Run the script: `python titanic_survival_prediction.py`
 
 ## Dataset
 The dataset is available on [Kaggle](https://www.kaggle.com/c/titanic).
